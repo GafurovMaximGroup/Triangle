@@ -1,0 +1,9 @@
+C:\Users\ksana\source\repos\Triangle\Triangle\bin\Debug\netstandard2.0\Triangle.deps.json
+C:\Users\ksana\source\repos\Triangle\Triangle\bin\Debug\netstandard2.0\Triangle.dll
+C:\Users\ksana\source\repos\Triangle\Triangle\bin\Debug\netstandard2.0\Triangle.pdb
+C:\Users\ksana\source\repos\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ksana\source\repos\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\ksana\source\repos\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.AssemblyInfo.cs
+C:\Users\ksana\source\repos\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.dll
+C:\Users\ksana\source\repos\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.pdb
+C:\Users\ksana\source\repos\Triangle\Triangle\obj\Debug\netstandard2.0\Triangle.csprojResolveAssemblyReference.cache
